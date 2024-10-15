@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Playing **RoyalMC**"];
-const statusTypes = [ 'dnd' "RoyalMC"];
+const statusTypes = [ 'RoyalMC'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
